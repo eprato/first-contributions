@@ -185,6 +185,7 @@ Abhinav Jain
 - Yi Wu
 - dianzu-intellij
 - [Abhinav](https://github.com/Abhinav1326)
+- [EPrato](https://github.com/eprato/)
 - [Jordan K](https://marinersjk00)
 - [Asaad Shaikh](https://github.com/scramerr)
 - [Yoyo Wu] (https://github.com/KingJJ676)
